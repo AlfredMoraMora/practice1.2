@@ -1,0 +1,82 @@
+[
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Titan",
+        "cout": 100,
+        "force": 8,
+        "vitesse": 3,
+        "intelligence": 2
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Bolt",
+        "cout": 120,
+        "force": 5,
+        "vitesse": 7,
+        "intelligence": 3
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Neuro",
+        "cout": 90,
+        "force": 3,
+        "vitesse": 4,
+        "intelligence": 9
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Goliath",
+        "cout": 150,
+        "force": 10,
+        "vitesse": 2,
+        "intelligence": 1
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Rapide",
+        "cout": 110,
+        "force": 4,
+        "vitesse": 9,
+        "intelligence": 4
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Cerveau",
+        "cout": 130,
+        "force": 2,
+        "vitesse": 3,
+        "intelligence": 10
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Broyeur",
+        "cout": 140,
+        "force": 9,
+        "vitesse": 5,
+        "intelligence": 2
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Coureur",
+        "cout": 105,
+        "force": 3,
+        "vitesse": 10,
+        "intelligence": 3
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Lourd",
+        "cout": 125,
+        "force": 7,
+        "vitesse": 2,
+        "intelligence": 6
+    },
+    {
+        "py/object": "Robot.Robot",
+        "nom": "Optimus",
+        "cout": 160,
+        "force": 6,
+        "vitesse": 6,
+        "intelligence": 6
+    }
+]

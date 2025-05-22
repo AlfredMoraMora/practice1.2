@@ -1,0 +1,51 @@
+[
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-05",
+        "_montant": 15.0,
+        "categorie": "Nourriture",
+        "description": "just mangue"
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-05",
+        "_montant": 346.0,
+        "categorie": "Loisirs",
+        "description": "Startcitizen, nouvelle navette"
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2000-01-01",
+        "_montant": 67.0,
+        "categorie": "Loisirs",
+        "description": "t-shirt Canadiens"
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-07",
+        "_montant": 296.0,
+        "categorie": "Loisirs",
+        "description": "steam games"
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-05",
+        "_montant": 22.45,
+        "categorie": "Nourriture",
+        "description": "pizza pizza"
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-08",
+        "_montant": 1200.0,
+        "categorie": "Transport",
+        "description": "changement clutch voiture "
+    },
+    {
+        "py/object": "classes.transaction.Transaction",
+        "date": "2025-05-08",
+        "_montant": 262.0,
+        "categorie": "Loisirs",
+        "description": "achet\u00e9 equipement de musique"
+    }
+]
